@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">apka6</string>
+    <string name="action_add_new">Dodaj</string>
+    <string name="add_title">Wpisz Tytuł</string>
+    <string name="choose_priority">Wybierz Priorytet</string>
+    <string name="set_Date">Wybierz Date</string>
+    <string name="set_State">Wybierz status</string>
+    <string name="set_State_Low">Mały</string>
+    <string name="set_State_Medium">Średni</string>
+    <string name="set_State_Big">Duży</string>
+    <string name="action_edit_button">Edytuj</string>
+    <string name="action_delete_button">Usuń</string>
+</resources>

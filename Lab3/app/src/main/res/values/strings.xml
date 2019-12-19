@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="imie"> imie</string>
+    <string name="nazwisko">nazwisko</string>
+    <string name="wypisz">wypisz</string>
+</resources>
