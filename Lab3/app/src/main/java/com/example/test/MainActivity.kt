@@ -7,7 +7,7 @@ import android.widget.Button
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
-    private var users = mutableListOf<User>(User("Mateusz", "Wiśniewski", 1))
+    private var users = mutableListOf<User>(User("Daniel", "Henel", 1))
     lateinit var button1 : Button
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
